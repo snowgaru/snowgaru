@@ -7,7 +7,7 @@
 <p> <i> - Mosher’s Law of Software Engineering </i></p>
 <hr/>
 <br>
-  <p><h4><b> 안녕하세요👋</p> <p><span style="background-color: #F7DDBE"><b>열심히, 꾸준히, 포기하지않고</span></p> <p><b>하루하루 공부하며 전보다 성장해나가고 있는</b></p> <p><span style="background-color: #F7DDBE"><b>게임 클라이언트 개발자</span></b></p> <p><h3><i><b>박서준</b></i><b>  입니다. </b>  </h4></p> <br>
+  <p><h2><b> 안녕하세요👋</p> <p><span style="background-color: #F7DDBE"><b>열심히, 꾸준히, 포기하지않고</span></p> <p><b>하루하루 공부하며 전보다 성장해나가고 있는</b></p> <p><span style="background-color: #F7DDBE"><b>게임 클라이언트 개발자</span></b></p> <p><h3><i><b>박서준</b></i><b>  입니다. </b>  </h4></p> <br>
 </div>
 
 <div align = center>
