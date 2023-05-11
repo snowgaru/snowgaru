@@ -10,17 +10,17 @@
 
 <br>
 <div align = center>
-<p><h4><b>          📚 이런 언어를 사용할 수 있어요!</b></p>
+<p><h5><b>          📚 이런 언어를 사용할 수 있어요!</b></p>
 <span style="background-color: #F7DDBE"><b> C , C++ , C# </span></b>
 </div>
 
 <div align = center>
-<p><h4><b>          🛠 이런 도구들을 사용할 수 있어요!</b></p>
+<p><h5><b>          🛠 이런 도구들을 사용할 수 있어요!</b></p>
 <span style="background-color: #F7DDBE"><b> Unity , SourceTree , Github </span></b>
 </div>
 
 <div align = center>
-<p><h4><b>          👨‍🎓 저의 SNS와 포트폴리오!</b></p>
+<p><h5><b>          👨‍🎓 저의 SNS와 포트폴리오!</b></p>
 <span style="background-color: #F7DDBE"><b> <a href="https://github.com/snowgaru">Github ,
  <a href="https://www.notion.so/2b757f1d6d464809af9ada03895d3482">Notion </span></b>
 </div>
